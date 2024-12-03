@@ -34,8 +34,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/> 
   </a> 
   <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> 
-    <img src="https://greensock.com/uploads/monthly_2020_12/gsap-logo-black.jpg.0e3b693662db151f4326792b59e4313b.jpg" alt="GSAP" width="40" height="40"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gsap.svg" alt="GSAP" width="40" height="40"/> 
+</a>
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   </a> 
@@ -45,7 +46,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarohi-agnihotri&show_icons=true&locale=en" alt="aarohiagnihotri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarohi-agnihotri" alt="aarohiagnihotri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarohi-agnihotri" alt="aarohi-agnihotri" /></p>
 
 
 
