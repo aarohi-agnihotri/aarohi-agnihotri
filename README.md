@@ -1,15 +1,15 @@
-<h1 align="center">Hello 👋, I'm Aarohi Agnihotri</h1>
-<h2 align="center">An Aspiring Web Developer from Lucknow, India</h2>
+<h1 align="center">Hi, I'm Aarohi Agnihotri</h1>
+<h2 align="center">An ASPIRING Software Developer from Lucknow, India</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarohiagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="aarohiagnihotri" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java Programming**
 
-- 👨‍💻 All of my projects are available on my **[GitHub](https://github.com/aarohi-agnihotri)**
+- 👨‍💻 All of my projects and learning journey are available on my **[GitHub](https://github.com/aarohi-agnihotri)**
 
 - 📫 How to reach me: **aarohiagnihotri.works@gmail.com**
 
-- ⚡ Fun fact: **I create intricate patterns in art, plan my moves in chess, and capture moments through photography! 🎨♟📸**
+- ⚡ Fun fact: **How about a game of chess? 🎨♟📸**
 
 <h2 align="left">Let's Collaborate:</h2>
 <p align="left">
