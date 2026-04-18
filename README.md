@@ -26,7 +26,7 @@ Currently, I’m looking to work on more projects to strengthen my skills and am
 
 ## Connect
 - Location: Lucknow, India
-- GitHub: https://github.com/shivam-yadav2
+- GitHub: https://github.com/aarohi-agnihotri/
 - Email: aarohiagnihotri.works@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aarohi-agnihotri-62a836275/
 - Twitter(build in public): https://x.com/Aarohi0x
