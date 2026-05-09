@@ -33,7 +33,5 @@ Currently, I’m looking to work on more projects to strengthen my skills and am
 
 ---
 
-<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarohi-agnihotri&show_icons=true&locale=en" alt="aarohiagnihotri" /></a>
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarohi-agnihotri" alt="aarohi-agnihotri" /></a>
-
-Thanks for visiting — feel free to explore my repos or reach out!
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aarohi-agnihotri&theme=highcontrast" alt="GitHub Streak" /></a>
+<br/> Thanks for visiting — feel free to explore my repos or reach out!
