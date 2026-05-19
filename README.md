@@ -9,7 +9,7 @@ Currently, I’m looking to work on more projects to strengthen my skills and am
 ## Tech Stack & Tools
 
 - Frontend: React JS, Javascript, HTML
-- Backend: Core Java 
+- Backend: Core Java, Python
 - Databases: MySQL
 - UI & Styling: Tailwind CSS, SASS
 - Animation - GSAP (basic)
